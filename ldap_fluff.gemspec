@@ -25,4 +25,5 @@ Gem::Specification.new do |s|
   end
   s.add_development_dependency('rake')
   s.add_development_dependency('minitest')
+  s.add_development_dependency('net-ldap', '>= 0.8.0')
 end
